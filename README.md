@@ -6,3 +6,5 @@
 - 📫 How to reach me: comming soon (then propably over discord)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm actually a student
+
+<img srce"https://github-readme-stats.vercel.app/api?username=Jona-Walpert&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
