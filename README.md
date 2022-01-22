@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ethical hacking
 ###- 👯 I’m looking to collaborate on ...
 ###- 🤔 I’m looking for help with ...
-- 💬 Ask me about electronics related stuff
+- 💬 Ask me about electronics related stuff(not too difficult questions please)
 - 📫 How to reach me: comming soon
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm actually a student
