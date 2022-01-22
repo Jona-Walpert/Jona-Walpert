@@ -1,3 +1,5 @@
+<img src="https://st4.depositphotos.com/5076955/27020/v/1600/depositphotos_270207400-stock-illustration-hacker-using-the-internet-hacked.jpg">
+
 ### Hi, I'm Jona Walpert 👋
 
 - 🔭 I’m currently working on getting a good programmer and hacker
