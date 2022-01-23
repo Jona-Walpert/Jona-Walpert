@@ -1,4 +1,4 @@
-<img src="https://paste.pics/FQS8U">
+<img src="https://i2.paste.pics/FQS8U.png?trs=120e1c277c3d4b5da3d81d250f68cebe642a9a9c8535fa56281403ffe817e99e">
 
 Hi, I'm Jona Walpert, Welcome to my profile👋
 
