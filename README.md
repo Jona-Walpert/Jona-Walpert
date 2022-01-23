@@ -1,3 +1,5 @@
+<img src="https://paste.pics/FQS8U">
+
 Hi, I'm Jona Walpert, Welcome to my profile👋
 
 - 🔭 I’m currently working on getting a good programmer and hacker
