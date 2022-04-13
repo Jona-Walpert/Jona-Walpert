@@ -1,11 +1,11 @@
 Hi, I'm Jona Walpert, Welcome to my profile👋
 
-- 🔭 I’m currently working on getting a good programmer and hacker
-- 🌱 I’m currently learning ethical hacking and python(numpy)
-- 💬 Ask me about electronics related stuff(not too difficult questions please)
+- 🔭 I’m currently working on getting a better programmer and electrician.
+- 🌱 I’m currently learning ethical hacking and python and I'm going to start learning C++ soon.
 - 📫 How to reach me: discord: Walpert-contact #3379
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm actually a student
+- ⚡ Fun fact: I'm actually a student.
+- ✨ Interests: electronics, programming, hacking, game developing, gaming.
 
 -contact me, if you have any idea how I could make my profile look better. :D
 
