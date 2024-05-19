@@ -6,6 +6,7 @@ Hi, I'm Jona Walpert, Welcome to my profile👋
 - ⚡ Fun fact: I'm actually a student.
 - ✨ Interests: electronics, programming, hacking, physics and mathematics and astronomy.
 - 👑 3x3 Roubik's cube PB: 28.263
+- My website: [jona.walpert.ch](https://jona.walpert.ch)
 
 -contact me, if you have any idea how I could make my profile look better. :D
 
