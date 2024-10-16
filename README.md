@@ -10,4 +10,5 @@ Hi, I'm Jona Walpert, Welcome to my profile👋
 
 -contact me, if you have any idea how I could make my profile look better. :D
 
-![Leetcode stats](https://leetcode-solved-problems.vercel.app/api?username={jona-walpert}&name={Jona_Walpert})
+
+![example stats 2](https://leetcode-solved-problems.vercel.app/api?username={jona-walpert}&name={name_want_to_display}&bolder=false&title=false)
