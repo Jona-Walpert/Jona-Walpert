@@ -1,5 +1,5 @@
 # 💫 About Me:$
-📫 How to reach me: email: jonawalpert@gmail.com<br>- ⚡ Fun fact: I'm actually a student.<br>✨ Interests: electronics, programming, hacking, physics and mathematics and astronomy.<br>👑 3x3 Roubik's cube PB: 28.263<br>My website: [jona.walpert.ch](https://jona.walpert.ch)
+📫 How to reach me: email: jonawalpert@gmail.com<br>Fun fact: I just finished the Gymnasium.<br>✨ Interests: electronics, programming, hacking, physics and mathematics and astronomy.<br>👑 3x3 Roubik's cube PB: 28.263<br>My website: [jona.walpert.ch](https://jona.walpert.ch)
 
 
 ## 🌐 Socials:
