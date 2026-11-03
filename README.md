@@ -1,7 +1,15 @@
-# 💫 About Me:
-📫 How to reach me: email: jonawalpert@gmail.com<br>🎓 Studying Computer Science at University of Basel<br>✨ Interests: electronics, programming, cyber security, physics and mathematics and astronomy<br>My website: [jona.walpert.ch](https://jona.walpert.ch)
+### Jona Walpert
+
+Computer Science student at Universität Basel with an emphasis on systems programming, object-oriented software engineering, and network communication.
+
+#### Technologies
+- **Languages:** Java, Python, C / C++, Bash
+- **Tools & Environments:** Linux, Git, JUnit, LaTeX
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jona-Walpert&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jona-Walpert/Jona-Walpert/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jona-Walpert/Jona-Walpert/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jona-Walpert/Jona-Walpert/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
